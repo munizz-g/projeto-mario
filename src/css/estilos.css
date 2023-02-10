@@ -31,7 +31,7 @@ body {
 }
 
 .cabecalho nav li a:hover {
-    background-color: red;
+    background-color: orange;
 }
 
 .container {
